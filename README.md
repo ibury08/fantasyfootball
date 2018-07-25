@@ -9,3 +9,5 @@ The above github repo contains a Python lib to map the dataset to relevant objec
 *Used pdoc (pip install pdoc), as API docs for nflgame are no longer supported. 
 TODO:
 Add requirements.txt, gitignore.txt
+
+column library: https://github.com/BurntSushi/nfldb/wiki/Statistical-categories
